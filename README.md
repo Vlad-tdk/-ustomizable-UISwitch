@@ -3,9 +3,7 @@
 CustomSwitch is a customizable switch based on `UIControl` that allows easy modification of the appearance and behavior of the switch.
 CustomSwitch — это кастомизированный переключатель, созданный на базе `UIControl`, который позволяет легко изменять внешний вид и поведение переключателя.
 
-![OFF](https://raw.githubusercontent.com/Vlad-tdk/Customizable-UISwitch/main/%D0%A1ustomizable%20UISwitch/001.png)
-
-![ON](https://raw.githubusercontent.com/Vlad-tdk/Customizable-UISwitch/main/%D0%A1ustomizable%20UISwitch/002.png)
+![On/Off](https://raw.githubusercontent.com/Vlad-tdk/Customizable-UISwitch/main/%D0%A1ustomizable%20UISwitch/03.png)
 
 ## Main Features
 
